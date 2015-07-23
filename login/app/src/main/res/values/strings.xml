@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HOME</string>
+
+    <string name="tela_principal">Tela Principal</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    
+    <string name="lbl_titulo_login">Preencha os campos com o login</string>
+    <string name="lbl_informe_login">Informe o login</string>
+    <string name="lbl_informe_senha">Informe a senha</string>
+
+    <string name="lbl_titulo_home">Cadastre um novo usuario</string>
+
+    <string name="drawer_open">Abrir Menu</string>
+    <string name="drawer_close">Fechar Menu</string>
+
+
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venys</item>
+        <item>Earth</item>
+    </string-array>
+
+</resources>
